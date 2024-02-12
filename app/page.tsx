@@ -28,10 +28,10 @@ const frameMetadata = getFrameMetadata({
 });
 
 export const metadata: Metadata = {
-  title: 'zizzamia.xyz',
+  title: 'frame powered by dazarius',
   description: 'LFG',
   openGraph: {
-    title: 'zizzamia.xyz',
+    title: 'dazay',
     description: 'LFG',
     images: [`${NEXT_PUBLIC_URL}/park-1.png`],
   },
