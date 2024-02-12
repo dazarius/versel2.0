@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   title: 'frame powered by dazarius',
   description: 'LFG',
   openGraph: {
-    title: 'dazay',
+    title: 'dazay + 1',
     description: 'LFG',
     images: [`${NEXT_PUBLIC_URL}/park-1.png`],
   },
