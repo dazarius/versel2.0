@@ -31,9 +31,9 @@ export const metadata: Metadata = {
   title: 'frame powered by dazarius',
   description: 'LFG',
   openGraph: {
-    title: 'fsdavsgvdas< + 1',
+    title: 'fsdavsgvdas + 1', // Исправлено: убраны неправильно поставленные символы `<` и `
     description: 'LFG',
-    images: ['${NEXT_PUBLIC_URL}/ipfs/QmTauNfnxQxVKFPvGAsG7LK5AXnMTgAUuPESiixvNubdeH`],
+    images: [`${NEXT_PUBLIC_URL}/ipfs/QmTauNfnxQxVKFPvGAsG7LK5AXnMTgAUuPESiixvNubdeH`], // Исправлено: добавлен пропущенный символ `
   },
   other: {
     ...frameMetadata,
