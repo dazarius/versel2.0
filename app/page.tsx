@@ -18,7 +18,7 @@ const frameMetadata = getFrameMetadata({
     },
   ],
   image: {
-    src: `${NEXT_PUBLIC_URL}/park-3.png`,
+    src: `${NEXT_PUBLIC_URL}/ipfs/QmTauNfnxQxVKFPvGAsG7LK5AXnMTgAUuPESiixvNubdeH`,
     aspectRatio: '1:1',
   },
   input: {
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'fsdavsgvdas< + 1',
     description: 'LFG',
-    images: [`${NEXT_PUBLIC_URL}/park-1.png`],
+    images: ['${NEXT_PUBLIC_URL}/ipfs/QmTauNfnxQxVKFPvGAsG7LK5AXnMTgAUuPESiixvNubdeH`],
   },
   other: {
     ...frameMetadata,
